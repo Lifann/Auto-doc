@@ -4,7 +4,7 @@
 
 <!-- Insert buttons and diff -->
 
-<table class="tfo-notebook-buttons tfo-api" align="center">
+<table class="tfo-notebook-buttons tfo-api" align="left">
 
 <td>
   <a target="_blank" href="https://github.com/tensorflow/recommenders-addons/tree/Lifann/add-api-docs/tensorflow_recommenders_addons/dynamic_embedding/python/ops/restrict_policies.py#L114-L230">
@@ -14,9 +14,11 @@
 </td>
 </table>
 
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
