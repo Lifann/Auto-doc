@@ -12,11 +12,14 @@
     View source on GitHub
   </a>
 </td>
-<br/>
-<br/>
-<br/>
-<br/>
 </table>
+
+
+
+
+
+
+
 
 
 
@@ -35,11 +38,3 @@ Inherits From: [`RestrictPolicy`](../../tfra/dynamic_embedding/RestrictPolicy.md
 
 ``` python
 __init__(var)
-```
-
-A timestamp status sparse variable is created. The timestamp status
-has same key_dtype as the target variable and value_dtype in int32,
-which indicates the timestamp value. The timestamp means a digital
-record of time. The later the time, the larger the timestamp.
-
-#### Args:
